@@ -1,0 +1,1 @@
+Codigo\dist\ConversionLogica\ConversionLogica.exe
